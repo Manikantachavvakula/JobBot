@@ -1,0 +1,168 @@
+{
+  "profile": {
+    "name": "Manikanta Chavvakula",
+    "email": "manikantaa.dev@gmail.com",
+    "phone": "+91-9676853187",
+    "location": "Hyderabad, India",
+    "linkedin": "https://linkedin.com/in/manikanta-chavvakula",
+    "github": "https://github.com/manikanta-chavvakula",
+    "medium": "https://medium.com/@manikanta",
+    "portfolio": "https://manikanta-portfolio.com",
+    "experience_summary": "ROC Specialist at Amazon with expertise in automation testing, Python, and Selenium"
+  },
+  "job_preferences": {
+    "roles": [
+      "QA Engineer",
+      "QA Automation Engineer",
+      "Software Tester",
+      "SDET",
+      "Test Engineer",
+      "Automation Tester",
+      "Quality Assurance Engineer",
+      "Manual Tester",
+      "Test Analyst"
+    ],
+    "min_salary_lpa": 5,
+    "max_salary_lpa": 12,
+    "locations": [
+      "Remote",
+      "Hyderabad",
+      "Visakhapatnam",
+      "Vizag",
+      "Bangalore",
+      "Chennai",
+      "Pune"
+    ],
+    "experience_level": [
+      "Fresher",
+      "0-1 years",
+      "1-2 years",
+      "Entry Level"
+    ],
+    "company_types": [
+      "Startup",
+      "Product",
+      "MNC",
+      "Service",
+      "IT Services"
+    ],
+    "work_mode": [
+      "Remote",
+      "Hybrid",
+      "Work from Home"
+    ]
+  },
+  "skills": {
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "testing_tools": [
+      "Selenium WebDriver",
+      "PyTest",
+      "Postman",
+      "Jira"
+    ],
+    "concepts": [
+      "Test Case Design",
+      "Regression Testing",
+      "API Testing",
+      "Automation Testing",
+      "Manual Testing"
+    ],
+    "other_tools": [
+      "Git",
+      "AWS QuickSight",
+      "Excel",
+      "VS Code",
+      "Linux tools"
+    ],
+    "frameworks": [
+      "QA-Monkey Framework",
+      "POM Design Pattern"
+    ],
+    "specializations": [
+      "Process Improvement",
+      "Stakeholder Management",
+      "Operations Excellence"
+    ]
+  },
+  "resume_files": {
+    "qa_automation": "Mani_QA1.pdf",
+    "qa_general": "Mani_QA2.pdf",
+    "qa_entry": "Mani_QA3.pdf"
+  },
+  "daily_limits": {
+    "max_applications": 20,
+    "max_hr_emails": 40,
+    "morning_applications": 8,
+    "evening_applications": 12,
+    "email_delay_min": 30,
+    "email_delay_max": 120,
+    "application_delay_min": 10,
+    "application_delay_max": 30
+  },
+  "email_config": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "manikantaa.dev@gmail.com",
+    "sender_password": "Hanuman@7643"
+  },
+  "job_sites": [
+    "linkedin",
+    "naukri",
+    "indeed",
+    "glassdoor",
+    "monster",
+    "timesjobs",
+    "foundit"
+  ],
+  "keywords": {
+    "positive": [
+      "qa",
+      "quality assurance",
+      "testing",
+      "automation",
+      "selenium",
+      "pytest",
+      "python",
+      "test engineer",
+      "sdet",
+      "manual testing",
+      "api testing",
+      "regression",
+      "test cases",
+      "bug tracking",
+      "jira",
+      "postman",
+      "git",
+      "ci/cd",
+      "agile",
+      "scrum"
+    ],
+    "negative": [
+      "senior",
+      "lead",
+      "manager",
+      "architect",
+      "principal",
+      "director",
+      "5+ years",
+      "3+ years",
+      "experienced professional",
+      "expert level"
+    ],
+    "fresher_friendly": [
+      "fresher",
+      "entry level",
+      "0-1 year",
+      "0-2 years",
+      "graduate",
+      "trainee",
+      "associate",
+      "junior",
+      "beginner",
+      "new grad"
+    ]
+  }
+}

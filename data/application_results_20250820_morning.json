@@ -1,0 +1,270 @@
+[
+  {
+    "job_id": "https://www.timesjobs.com/job-detail/associate-quality-assurance-engineer-epiq-hyderabad-secunderabad-0-to-2-yrs-jobid-80Kz26yAI65zpSvf__PLUS__uAgZw==&source=srp",
+    "title": "Associate Quality Assurance Engineer",
+    "company": "Epiq",
+    "status": "login_required",
+    "reason": "Simulated login_required status",
+    "applied_at": "2025-08-20 17:05:15",
+    "filter_result": {
+      "is_relevant": true,
+      "reason": "Job matches all criteria",
+      "details": {
+        "role_check": {
+          "is_relevant": true,
+          "reason": "Good match with 8 QA keywords",
+          "matched_keywords": [
+            "qa",
+            "quality assurance",
+            "testing",
+            "automation",
+            "manual testing",
+            "test cases",
+            "agile",
+            "scrum"
+          ],
+          "fresher_friendly": true,
+          "score": 85
+        },
+        "location_check": {
+          "is_match": true,
+          "reason": "Matches preferred location: Hyderabad"
+        },
+        "experience_check": {
+          "is_match": true,
+          "required_exp": 0,
+          "reason": "No specific experience requirement mentioned"
+        },
+        "salary_info": {
+          "min_salary": 0,
+          "max_salary": 0,
+          "average_salary": 0,
+          "found": false
+        }
+      },
+      "resume_to_use": "Mani_QA3.pdf",
+      "relevance_score": 85,
+      "salary_lpa": "Not specified",
+      "is_fresher_friendly": true,
+      "matched_keywords": [
+        "qa",
+        "quality assurance",
+        "testing",
+        "automation",
+        "manual testing",
+        "test cases",
+        "agile",
+        "scrum"
+      ]
+    },
+    "search_keywords": "QA Engineer"
+  },
+  {
+    "job_id": "https://www.timesjobs.com/job-detail/software-qa-engineer-hewlett-packard-enterprise-hyderabad-secunderabad-0-to-2-yrs-jobid-9aSNltJGEnhzpSvf__PLUS__uAgZw==&source=srp",
+    "title": "Software QA Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "status": "success",
+    "reason": "Application submitted successfully (simulated)",
+    "applied_at": "2025-08-20 17:05:15",
+    "filter_result": {
+      "is_relevant": true,
+      "reason": "Job matches all criteria",
+      "details": {
+        "role_check": {
+          "is_relevant": true,
+          "reason": "Good match with 8 QA keywords",
+          "matched_keywords": [
+            "qa",
+            "quality assurance",
+            "testing",
+            "automation",
+            "selenium",
+            "regression",
+            "test cases",
+            "agile"
+          ],
+          "fresher_friendly": false,
+          "score": 80
+        },
+        "location_check": {
+          "is_match": true,
+          "reason": "Matches preferred location: Hyderabad"
+        },
+        "experience_check": {
+          "is_match": true,
+          "required_exp": 0,
+          "reason": "No specific experience requirement mentioned"
+        },
+        "salary_info": {
+          "min_salary": 0,
+          "max_salary": 0,
+          "average_salary": 0,
+          "found": false
+        }
+      },
+      "resume_to_use": "Mani_QA2.pdf",
+      "relevance_score": 80,
+      "salary_lpa": "Not specified",
+      "is_fresher_friendly": false,
+      "matched_keywords": [
+        "qa",
+        "quality assurance",
+        "testing",
+        "automation",
+        "selenium",
+        "regression",
+        "test cases",
+        "agile"
+      ]
+    },
+    "search_keywords": "QA Engineer"
+  },
+  {
+    "job_id": "https://www.timesjobs.com/job-detail/software-qa-engineer-intern-epiq-hyderabad-secunderabad-0-to-1-yrs-jobid-kBV1PGFV0slzpSvf__PLUS__uAgZw==&source=srp",
+    "title": "Software QA Engineer - Intern",
+    "company": "Epiq",
+    "status": "failed",
+    "reason": "Simulated failed status",
+    "applied_at": "2025-08-20 17:05:15",
+    "filter_result": {
+      "is_relevant": true,
+      "reason": "Job matches all criteria",
+      "details": {
+        "role_check": {
+          "is_relevant": true,
+          "reason": "Good match with 4 QA keywords",
+          "matched_keywords": [
+            "qa",
+            "quality assurance",
+            "python",
+            "agile"
+          ],
+          "fresher_friendly": false,
+          "score": 40
+        },
+        "location_check": {
+          "is_match": true,
+          "reason": "Matches preferred location: Hyderabad"
+        },
+        "experience_check": {
+          "is_match": true,
+          "required_exp": 0,
+          "reason": "No specific experience requirement mentioned"
+        },
+        "salary_info": {
+          "min_salary": 0,
+          "max_salary": 0,
+          "average_salary": 0,
+          "found": false
+        }
+      },
+      "resume_to_use": "Mani_QA2.pdf",
+      "relevance_score": 40,
+      "salary_lpa": "Not specified",
+      "is_fresher_friendly": false,
+      "matched_keywords": [
+        "qa",
+        "quality assurance",
+        "python",
+        "agile"
+      ]
+    },
+    "search_keywords": "QA Engineer"
+  },
+  {
+    "job_id": "https://www.timesjobs.com/job-detail/qa-officer-seven-consultancy-hyderabad-secunderabad-0-to-3-yrs-jobid-bu2SpqrYmClzpSvf__PLUS__uAgZw==&source=srp",
+    "title": "QA Officer",
+    "company": "SEVEN CONSULTANCY",
+    "status": "success",
+    "reason": "Application submitted successfully (simulated)",
+    "applied_at": "2025-08-20 17:05:15",
+    "filter_result": {
+      "is_relevant": true,
+      "reason": "Job matches all criteria",
+      "details": {
+        "role_check": {
+          "is_relevant": true,
+          "reason": "Good match with 2 QA keywords",
+          "matched_keywords": [
+            "qa",
+            "quality assurance"
+          ],
+          "fresher_friendly": false,
+          "score": 20
+        },
+        "location_check": {
+          "is_match": true,
+          "reason": "Matches preferred location: Hyderabad"
+        },
+        "experience_check": {
+          "is_match": true,
+          "required_exp": 0,
+          "reason": "No specific experience requirement mentioned"
+        },
+        "salary_info": {
+          "min_salary": 0,
+          "max_salary": 0,
+          "average_salary": 0,
+          "found": false
+        }
+      },
+      "resume_to_use": "Mani_QA2.pdf",
+      "relevance_score": 20,
+      "salary_lpa": "Not specified",
+      "is_fresher_friendly": false,
+      "matched_keywords": [
+        "qa",
+        "quality assurance"
+      ]
+    },
+    "search_keywords": "QA Engineer"
+  },
+  {
+    "job_id": "https://www.timesjobs.com/job-detail/quality-assurance-seven-consultancy-hyderabad-secunderabad-0-to-3-yrs-jobid-qKR1hK3xB3FzpSvf__PLUS__uAgZw==&source=srp",
+    "title": "Quality Assurance",
+    "company": "SEVEN CONSULTANCY",
+    "status": "success",
+    "reason": "Application submitted successfully (simulated)",
+    "applied_at": "2025-08-20 17:05:15",
+    "filter_result": {
+      "is_relevant": true,
+      "reason": "Job matches all criteria",
+      "details": {
+        "role_check": {
+          "is_relevant": true,
+          "reason": "Good match with 2 QA keywords",
+          "matched_keywords": [
+            "qa",
+            "quality assurance"
+          ],
+          "fresher_friendly": false,
+          "score": 20
+        },
+        "location_check": {
+          "is_match": true,
+          "reason": "Matches preferred location: Hyderabad"
+        },
+        "experience_check": {
+          "is_match": true,
+          "required_exp": 0,
+          "reason": "No specific experience requirement mentioned"
+        },
+        "salary_info": {
+          "min_salary": 0,
+          "max_salary": 0,
+          "average_salary": 0,
+          "found": false
+        }
+      },
+      "resume_to_use": "Mani_QA2.pdf",
+      "relevance_score": 20,
+      "salary_lpa": "Not specified",
+      "is_fresher_friendly": false,
+      "matched_keywords": [
+        "qa",
+        "quality assurance"
+      ]
+    },
+    "search_keywords": "QA Engineer"
+  }
+]

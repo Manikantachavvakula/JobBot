@@ -1,0 +1,496 @@
+2025-08-20 16:56:57,165 - ManiJobSearchBot - INFO - Target: QA Engineer, QA Automation Engineer, Software Tester
+2025-08-20 16:56:57,165 - ManiJobSearchBot - INFO - Locations: Remote, Hyderabad, Visakhapatnam
+2025-08-20 16:56:57,166 - ManiJobSearchBot - INFO - Test Mode: OFF
+2025-08-20 16:56:57,187 - ManiJobSearchBot - ERROR -    � Gmail app password not configured
+2025-08-20 16:57:39,229 - ManiJobSearchBot - INFO - 🤖 Manikanta's Job Search Bot initialized successfully
+2025-08-20 16:57:39,229 - ManiJobSearchBot - INFO - Target: QA Engineer, QA Automation Engineer, Software Tester
+2025-08-20 16:57:39,230 - ManiJobSearchBot - INFO - Locations: Remote, Hyderabad, Visakhapatnam
+2025-08-20 16:57:39,230 - ManiJobSearchBot - INFO - Test Mode: OFF
+2025-08-20 16:57:39,234 - ManiJobSearchBot - INFO - 🚀 Running Manikanta's job search bot once...
+2025-08-20 16:57:39,234 - ManiJobSearchBot - INFO - 🔍 Checking prerequisites...
+2025-08-20 16:57:39,235 - ManiJobSearchBot - ERROR - ❌ Prerequisites check failed:
+2025-08-20 16:57:39,235 - ManiJobSearchBot - ERROR -    • Gmail app password not configured
+2025-08-20 17:03:30,928 - ManiJobSearchBot - INFO - 🤖 Manikanta's Job Search Bot initialized successfully
+2025-08-20 17:03:30,928 - ManiJobSearchBot - INFO - Target: QA Engineer, QA Automation Engineer, Software Tester
+2025-08-20 17:03:30,928 - ManiJobSearchBot - INFO - Locations: Remote, Hyderabad, Visakhapatnam
+2025-08-20 17:03:30,929 - ManiJobSearchBot - INFO - Test Mode: ON
+2025-08-20 17:03:30,931 - ManiJobSearchBot - INFO - 🚀 Running Manikanta's job search bot once...
+2025-08-20 17:03:30,932 - ManiJobSearchBot - INFO - 🔍 Checking prerequisites...
+2025-08-20 17:03:30,932 - ManiJobSearchBot - INFO - ✅ All prerequisites met - ready to search for jobs!
+2025-08-20 17:03:30,932 - ManiJobSearchBot - INFO - 🌅 Starting morning routine for Manikanta...
+2025-08-20 17:03:30,932 - ManiJobSearchBot - INFO - 🔍 Step 1: Scraping new QA/Automation jobs...
+2025-08-20 17:03:30,933 - scrapers - INFO - Starting job scraping for 'QA Engineer' in locations: ['Remote', 'Hyderabad', 'Visakhapatnam']
+2025-08-20 17:03:30,933 - scrapers - INFO - \n=== Searching in Remote ===
+2025-08-20 17:03:30,933 - scrapers - INFO - Scraping LinkedIn...
+2025-08-20 17:03:30,940 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:03:31,286 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:03:31,991 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:03:32,839 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:03:34,299 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:03:35,178 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:03:35,997 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:03:40,388 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0113A813+48355]
+	(No symbol) [0x010CC4B1]
+	(No symbol) [0x00FD5358]
+	(No symbol) [0x00FF61AC]
+	(No symbol) [0x00FF1EF3]
+	(No symbol) [0x00FF0579]
+	(No symbol) [0x01020C55]
+	(No symbol) [0x0102093C]
+	(No symbol) [0x0101A536]
+	(No symbol) [0x00FF82DC]
+	(No symbol) [0x00FF93DD]
+	GetHandleVerifier [0x0139AABD+2539405]
+	GetHandleVerifier [0x013DA78F+2800735]
+	GetHandleVerifier [0x013D456C+2775612]
+	GetHandleVerifier [0x011C51E0+616112]
+	(No symbol) [0x010D5F8C]
+	(No symbol) [0x010D2328]
+	(No symbol) [0x010D240B]
+	(No symbol) [0x010C4FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:03:40,390 - scrapers - INFO - LinkedIn: 0 jobs found
+2025-08-20 17:03:47,375 - scrapers - INFO - Scraping Naukri...
+2025-08-20 17:03:47,381 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/qa-engineer-jobs-in-remote
+2025-08-20 17:03:49,468 - bs4.dammit - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-20 17:03:49,469 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:03:49,471 - scrapers - INFO - Naukri: 0 jobs found
+2025-08-20 17:03:58,994 - scrapers - INFO - Scraping Indeed...
+2025-08-20 17:03:59,000 - scrapers - INFO - Scraping Indeed: https://in.indeed.com/jobs?q=QA+Engineer&l=Remote&fromage=7&sort=date
+2025-08-20 17:03:59,659 - scrapers - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=QA+Engineer&l=Remote&fromage=7&sort=date
+2025-08-20 17:03:59,661 - scrapers - INFO - Indeed: 0 jobs found
+2025-08-20 17:04:04,903 - scrapers - INFO - \n=== Searching in Hyderabad ===
+2025-08-20 17:04:04,903 - scrapers - INFO - Scraping LinkedIn...
+2025-08-20 17:04:04,908 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:04:05,243 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:04:05,828 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:04:06,409 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:04:08,917 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:04:09,753 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:04:10,515 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:04:14,130 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008CA813+48355]
+	(No symbol) [0x0085C4B1]
+	(No symbol) [0x00765358]
+	(No symbol) [0x007861AC]
+	(No symbol) [0x00781EF3]
+	(No symbol) [0x00780579]
+	(No symbol) [0x007B0C55]
+	(No symbol) [0x007B093C]
+	(No symbol) [0x007AA536]
+	(No symbol) [0x007882DC]
+	(No symbol) [0x007893DD]
+	GetHandleVerifier [0x00B2AABD+2539405]
+	GetHandleVerifier [0x00B6A78F+2800735]
+	GetHandleVerifier [0x00B6456C+2775612]
+	GetHandleVerifier [0x009551E0+616112]
+	(No symbol) [0x00865F8C]
+	(No symbol) [0x00862328]
+	(No symbol) [0x0086240B]
+	(No symbol) [0x00854FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:04:14,132 - scrapers - INFO - LinkedIn: 0 jobs found
+2025-08-20 17:04:20,043 - scrapers - INFO - Scraping Naukri...
+2025-08-20 17:04:20,049 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/qa-engineer-jobs-in-hyderabad
+2025-08-20 17:04:20,988 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:04:20,989 - scrapers - INFO - Naukri: 0 jobs found
+2025-08-20 17:04:28,604 - scrapers - INFO - Scraping Indeed...
+2025-08-20 17:04:28,611 - scrapers - INFO - Scraping Indeed: https://in.indeed.com/jobs?q=QA+Engineer&l=Hyderabad&fromage=7&sort=date
+2025-08-20 17:04:29,225 - scrapers - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=QA+Engineer&l=Hyderabad&fromage=7&sort=date
+2025-08-20 17:04:29,227 - scrapers - INFO - Indeed: 0 jobs found
+2025-08-20 17:04:36,077 - scrapers - INFO - Scraping TimesJobs...
+2025-08-20 17:04:36,082 - scrapers - INFO - Scraping TimesJobs: https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=QA+Engineer&txtLocation=Hyderabad&cboWorkExp1=0&cboWorkExp2=2
+2025-08-20 17:04:38,320 - scrapers - INFO - Found 25 TimesJobs listings
+2025-08-20 17:04:38,321 - scrapers - INFO - Scraped TimesJobs job 1: Software QA Engineer at Hewlett Packard Enterprise
+2025-08-20 17:04:38,322 - scrapers - INFO - Scraped TimesJobs job 2: Software QA Engineer - Intern at Epiq
+2025-08-20 17:04:38,322 - scrapers - INFO - Scraped TimesJobs job 3: QA Officer at SEVEN CONSULTANCY
+2025-08-20 17:04:38,323 - scrapers - INFO - Scraped TimesJobs job 4: Intern - QA CoE at MICRON TECHNOLOGY
+2025-08-20 17:04:38,324 - scrapers - INFO - Scraped TimesJobs job 5: QA QC - Lab - Asst Manager at BPSP HR Solutions Pvt Ltd
+2025-08-20 17:04:38,325 - scrapers - INFO - Scraped TimesJobs job 6: Associate Quality Assurance Engineer at Epiq
+2025-08-20 17:04:38,325 - scrapers - INFO - Scraped TimesJobs job 7: Quality Assurance at SEVEN CONSULTANCY
+2025-08-20 17:04:38,326 - scrapers - INFO - Scraped TimesJobs job 8: Sr. Manager / AGM at BPSP HR Solutions Pvt Ltd
+2025-08-20 17:04:38,327 - scrapers - INFO - Scraped TimesJobs job 9: Software Engineer / Senior software Engineer at votary softech solution pvt ltd
+2025-08-20 17:04:38,328 - scrapers - INFO - Scraped TimesJobs job 10: Data Engineer at AMGEN
+2025-08-20 17:04:38,330 - scrapers - INFO - TimesJobs: 10 jobs found
+2025-08-20 17:04:44,245 - scrapers - INFO - \n=== Searching in Visakhapatnam ===
+2025-08-20 17:04:44,245 - scrapers - INFO - Scraping LinkedIn...
+2025-08-20 17:04:44,251 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:04:44,666 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:04:45,382 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:04:45,983 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:04:47,293 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:04:48,214 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:04:49,019 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:04:52,697 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F9A813+48355]
+	(No symbol) [0x00F2C4B1]
+	(No symbol) [0x00E35358]
+	(No symbol) [0x00E561AC]
+	(No symbol) [0x00E51EF3]
+	(No symbol) [0x00E50579]
+	(No symbol) [0x00E80C55]
+	(No symbol) [0x00E8093C]
+	(No symbol) [0x00E7A536]
+	(No symbol) [0x00E582DC]
+	(No symbol) [0x00E593DD]
+	GetHandleVerifier [0x011FAABD+2539405]
+	GetHandleVerifier [0x0123A78F+2800735]
+	GetHandleVerifier [0x0123456C+2775612]
+	GetHandleVerifier [0x010251E0+616112]
+	(No symbol) [0x00F35F8C]
+	(No symbol) [0x00F32328]
+	(No symbol) [0x00F3240B]
+	(No symbol) [0x00F24FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:04:52,699 - scrapers - INFO - LinkedIn: 0 jobs found
+2025-08-20 17:04:59,329 - scrapers - INFO - Scraping Naukri...
+2025-08-20 17:04:59,335 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/qa-engineer-jobs-in-visakhapatnam
+2025-08-20 17:05:00,298 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:05:00,301 - scrapers - INFO - Naukri: 0 jobs found
+2025-08-20 17:05:08,788 - scrapers - INFO - Scraping Indeed...
+2025-08-20 17:05:08,794 - scrapers - INFO - Scraping Indeed: https://in.indeed.com/jobs?q=QA+Engineer&l=Visakhapatnam&fromage=7&sort=date
+2025-08-20 17:05:09,309 - scrapers - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=QA+Engineer&l=Visakhapatnam&fromage=7&sort=date
+2025-08-20 17:05:09,311 - scrapers - INFO - Indeed: 0 jobs found
+2025-08-20 17:05:15,261 - scrapers - INFO - \n=== Scraping Summary ===
+2025-08-20 17:05:15,261 - scrapers - INFO - Total jobs scraped: 10
+2025-08-20 17:05:15,262 - scrapers - INFO - Unique jobs after deduplication: 10
+2025-08-20 17:05:15,263 - scrapers - INFO - TimesJobs: 10 jobs
+2025-08-20 17:05:15,268 - reporter - INFO - Saved 10 jobs to data\scraped_jobs_20250820_morning.json and data\scraped_jobs_20250820_morning.csv
+2025-08-20 17:05:15,269 - ManiJobSearchBot - INFO - 🎯 Step 2: Filtering jobs relevant to Manikanta's profile...
+2025-08-20 17:05:15,273 - ManiJobSearchBot - INFO - ✅ Found 5 relevant jobs out of 10 total
+2025-08-20 17:05:15,273 - ManiJobSearchBot - INFO - 🏆 Top job matches:
+2025-08-20 17:05:15,274 - ManiJobSearchBot - INFO -    1. Associate Quality Assurance Engineer at Epiq (Score: 85%)
+2025-08-20 17:05:15,274 - ManiJobSearchBot - INFO -    2. Software QA Engineer at Hewlett Packard Enterprise (Score: 80%)
+2025-08-20 17:05:15,274 - ManiJobSearchBot - INFO -    3. Software QA Engineer - Intern at Epiq (Score: 40%)
+2025-08-20 17:05:15,274 - ManiJobSearchBot - INFO - 📝 Step 3: Applying to 5 jobs...
+2025-08-20 17:05:15,275 - ManiJobSearchBot - INFO - 🧪 TEST MODE: Simulating applications...
+2025-08-20 17:05:15,280 - reporter - INFO - Saved 5 application results to data\application_results_20250820_morning.json and data\application_results_20250820_morning.csv
+2025-08-20 17:05:15,281 - ManiJobSearchBot - INFO - 📧 Step 4: Starting HR outreach...
+2025-08-20 17:05:15,281 - ManiJobSearchBot - INFO - ✅ Morning routine completed in 104.3 seconds
+2025-08-20 17:05:15,282 - ManiJobSearchBot - INFO - ⏸️ 5-minute break between routines...
+2025-08-20 17:10:15,283 - ManiJobSearchBot - INFO - 🌆 Starting evening routine for Manikanta...
+2025-08-20 17:10:15,284 - ManiJobSearchBot - INFO - 🔍 Step 1: Evening job search sweep...
+2025-08-20 17:10:15,284 - scrapers - INFO - Searching for 'Software Tester Hyderabad' in Remote
+2025-08-20 17:10:15,290 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:10:15,713 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:10:17,074 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:10:17,657 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:10:19,072 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:10:20,057 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:10:20,929 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:10:24,901 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00D4A813+48355]
+	(No symbol) [0x00CDC4B1]
+	(No symbol) [0x00BE5358]
+	(No symbol) [0x00C061AC]
+	(No symbol) [0x00C01EF3]
+	(No symbol) [0x00C00579]
+	(No symbol) [0x00C30C55]
+	(No symbol) [0x00C3093C]
+	(No symbol) [0x00C2A536]
+	(No symbol) [0x00C082DC]
+	(No symbol) [0x00C093DD]
+	GetHandleVerifier [0x00FAAABD+2539405]
+	GetHandleVerifier [0x00FEA78F+2800735]
+	GetHandleVerifier [0x00FE456C+2775612]
+	GetHandleVerifier [0x00DD51E0+616112]
+	(No symbol) [0x00CE5F8C]
+	(No symbol) [0x00CE2328]
+	(No symbol) [0x00CE240B]
+	(No symbol) [0x00CD4FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:10:28,330 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/software-tester-hyderabad-jobs-in-remote
+2025-08-20 17:10:29,219 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:10:34,034 - scrapers - INFO - Searching for 'Software Tester Hyderabad' in Hyderabad
+2025-08-20 17:10:34,040 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:10:34,433 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:10:35,206 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:10:35,833 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:10:37,140 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:10:38,026 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:10:38,819 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:10:42,465 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C5A813+48355]
+	(No symbol) [0x00BEC4B1]
+	(No symbol) [0x00AF5358]
+	(No symbol) [0x00B161AC]
+	(No symbol) [0x00B11EF3]
+	(No symbol) [0x00B10579]
+	(No symbol) [0x00B40C55]
+	(No symbol) [0x00B4093C]
+	(No symbol) [0x00B3A536]
+	(No symbol) [0x00B182DC]
+	(No symbol) [0x00B193DD]
+	GetHandleVerifier [0x00EBAABD+2539405]
+	GetHandleVerifier [0x00EFA78F+2800735]
+	GetHandleVerifier [0x00EF456C+2775612]
+	GetHandleVerifier [0x00CE51E0+616112]
+	(No symbol) [0x00BF5F8C]
+	(No symbol) [0x00BF2328]
+	(No symbol) [0x00BF240B]
+	(No symbol) [0x00BE4FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:10:48,462 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/software-tester-hyderabad-jobs-in-hyderabad
+2025-08-20 17:10:49,413 - bs4.dammit - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-20 17:10:49,416 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:10:53,562 - scrapers - INFO - Searching for 'SDET Bangalore' in Remote
+2025-08-20 17:10:53,568 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:10:53,898 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:10:54,443 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:10:55,012 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:10:56,324 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:10:57,189 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:10:57,913 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:11:01,527 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011BA813+48355]
+	(No symbol) [0x0114C4B1]
+	(No symbol) [0x01055358]
+	(No symbol) [0x010761AC]
+	(No symbol) [0x01071EF3]
+	(No symbol) [0x01070579]
+	(No symbol) [0x010A0C55]
+	(No symbol) [0x010A093C]
+	(No symbol) [0x0109A536]
+	(No symbol) [0x010782DC]
+	(No symbol) [0x010793DD]
+	GetHandleVerifier [0x0141AABD+2539405]
+	GetHandleVerifier [0x0145A78F+2800735]
+	GetHandleVerifier [0x0145456C+2775612]
+	GetHandleVerifier [0x012451E0+616112]
+	(No symbol) [0x01155F8C]
+	(No symbol) [0x01152328]
+	(No symbol) [0x0115240B]
+	(No symbol) [0x01144FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:11:04,932 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/sdet-bangalore-jobs-in-remote
+2025-08-20 17:11:06,252 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:11:09,564 - scrapers - INFO - Searching for 'SDET Bangalore' in Hyderabad
+2025-08-20 17:11:09,570 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:11:09,983 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:11:10,704 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:11:11,426 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:11:12,889 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:11:13,813 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:11:14,606 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:11:18,332 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00FDA813+48355]
+	(No symbol) [0x00F6C4B1]
+	(No symbol) [0x00E75358]
+	(No symbol) [0x00E961AC]
+	(No symbol) [0x00E91EF3]
+	(No symbol) [0x00E90579]
+	(No symbol) [0x00EC0C55]
+	(No symbol) [0x00EC093C]
+	(No symbol) [0x00EBA536]
+	(No symbol) [0x00E982DC]
+	(No symbol) [0x00E993DD]
+	GetHandleVerifier [0x0123AABD+2539405]
+	GetHandleVerifier [0x0127A78F+2800735]
+	GetHandleVerifier [0x0127456C+2775612]
+	GetHandleVerifier [0x010651E0+616112]
+	(No symbol) [0x00F75F8C]
+	(No symbol) [0x00F72328]
+	(No symbol) [0x00F7240B]
+	(No symbol) [0x00F64FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:11:22,262 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/sdet-bangalore-jobs-in-hyderabad
+2025-08-20 17:11:23,240 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:11:28,418 - scrapers - INFO - Searching for 'Test Engineer Remote' in Remote
+2025-08-20 17:11:28,424 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:11:28,853 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:11:29,424 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:11:30,044 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:11:31,444 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:11:32,336 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:11:33,111 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:11:36,861 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0061A813+48355]
+	(No symbol) [0x005AC4B1]
+	(No symbol) [0x004B5358]
+	(No symbol) [0x004D61AC]
+	(No symbol) [0x004D1EF3]
+	(No symbol) [0x004D0579]
+	(No symbol) [0x00500C55]
+	(No symbol) [0x0050093C]
+	(No symbol) [0x004FA536]
+	(No symbol) [0x004D82DC]
+	(No symbol) [0x004D93DD]
+	GetHandleVerifier [0x0087AABD+2539405]
+	GetHandleVerifier [0x008BA78F+2800735]
+	GetHandleVerifier [0x008B456C+2775612]
+	GetHandleVerifier [0x006A51E0+616112]
+	(No symbol) [0x005B5F8C]
+	(No symbol) [0x005B2328]
+	(No symbol) [0x005B240B]
+	(No symbol) [0x005A4FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:11:42,675 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/test-engineer-remote-jobs-in-remote
+2025-08-20 17:11:43,348 - bs4.dammit - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-20 17:11:43,349 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:11:49,127 - scrapers - INFO - Searching for 'Test Engineer Remote' in Hyderabad
+2025-08-20 17:11:49,133 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:11:49,461 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:11:50,048 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:11:50,652 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:11:51,995 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:11:52,885 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:11:53,652 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:11:57,289 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0071A813+48355]
+	(No symbol) [0x006AC4B1]
+	(No symbol) [0x005B5358]
+	(No symbol) [0x005D61AC]
+	(No symbol) [0x005D1EF3]
+	(No symbol) [0x005D0579]
+	(No symbol) [0x00600C55]
+	(No symbol) [0x0060093C]
+	(No symbol) [0x005FA536]
+	(No symbol) [0x005D82DC]
+	(No symbol) [0x005D93DD]
+	GetHandleVerifier [0x0097AABD+2539405]
+	GetHandleVerifier [0x009BA78F+2800735]
+	GetHandleVerifier [0x009B456C+2775612]
+	GetHandleVerifier [0x007A51E0+616112]
+	(No symbol) [0x006B5F8C]
+	(No symbol) [0x006B2328]
+	(No symbol) [0x006B240B]
+	(No symbol) [0x006A4FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:12:02,866 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/test-engineer-remote-jobs-in-hyderabad
+2025-08-20 17:12:03,860 - bs4.dammit - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-20 17:12:03,862 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:12:08,148 - scrapers - INFO - Searching for 'Quality Assurance Chennai' in Remote
+2025-08-20 17:12:08,153 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:12:08,480 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:12:09,058 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:12:09,649 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:12:10,972 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:12:11,794 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:12:12,543 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:12:16,181 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00CEA813+48355]
+	(No symbol) [0x00C7C4B1]
+	(No symbol) [0x00B85358]
+	(No symbol) [0x00BA61AC]
+	(No symbol) [0x00BA1EF3]
+	(No symbol) [0x00BA0579]
+	(No symbol) [0x00BD0C55]
+	(No symbol) [0x00BD093C]
+	(No symbol) [0x00BCA536]
+	(No symbol) [0x00BA82DC]
+	(No symbol) [0x00BA93DD]
+	GetHandleVerifier [0x00F4AABD+2539405]
+	GetHandleVerifier [0x00F8A78F+2800735]
+	GetHandleVerifier [0x00F8456C+2775612]
+	GetHandleVerifier [0x00D751E0+616112]
+	(No symbol) [0x00C85F8C]
+	(No symbol) [0x00C82328]
+	(No symbol) [0x00C8240B]
+	(No symbol) [0x00C74FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:12:22,061 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/quality-assurance-chennai-jobs-in-remote
+2025-08-20 17:12:22,907 - bs4.dammit - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-20 17:12:22,908 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:12:28,274 - scrapers - INFO - Searching for 'Quality Assurance Chennai' in Hyderabad
+2025-08-20 17:12:28,279 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 17:12:28,620 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:12:29,188 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-08-20 17:12:29,828 - WDM - INFO - Driver downloading response is 200
+2025-08-20 17:12:31,148 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:12:32,000 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 17:12:32,858 - WDM - INFO - Driver has been saved in cache [C:\Users\manik\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-08-20 17:12:36,598 - scrapers - ERROR - Error scraping LinkedIn: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 139.0.7258.128 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F5A813+48355]
+	(No symbol) [0x00EEC4B1]
+	(No symbol) [0x00DF5358]
+	(No symbol) [0x00E161AC]
+	(No symbol) [0x00E11EF3]
+	(No symbol) [0x00E10579]
+	(No symbol) [0x00E40C55]
+	(No symbol) [0x00E4093C]
+	(No symbol) [0x00E3A536]
+	(No symbol) [0x00E182DC]
+	(No symbol) [0x00E193DD]
+	GetHandleVerifier [0x011BAABD+2539405]
+	GetHandleVerifier [0x011FA78F+2800735]
+	GetHandleVerifier [0x011F456C+2775612]
+	GetHandleVerifier [0x00FE51E0+616112]
+	(No symbol) [0x00EF5F8C]
+	(No symbol) [0x00EF2328]
+	(No symbol) [0x00EF240B]
+	(No symbol) [0x00EE4FF7]
+	BaseThreadInitThunk [0x7734FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777182AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7771827E+238]
+
+2025-08-20 17:12:41,850 - scrapers - INFO - Scraping Naukri: https://www.naukri.com/quality-assurance-chennai-jobs-in-hyderabad
+2025-08-20 17:12:42,701 - bs4.dammit - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-20 17:12:42,704 - scrapers - INFO - Found 0 Naukri job containers
+2025-08-20 17:12:46,206 - ManiJobSearchBot - INFO - 📊 Step 3: Generating daily summary...
+2025-08-20 17:12:46,233 - reporter - INFO - Generated daily report: reports\daily_report_20250820.html
+2025-08-20 17:12:46,241 - ManiJobSearchBot - INFO - 📋 Daily report generated: reports\daily_report_20250820.html
+2025-08-20 17:12:46,241 - ManiJobSearchBot - INFO - ✅ Evening routine completed in 151.0 seconds
